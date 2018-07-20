@@ -1,0 +1,9 @@
+{
+	  "name": "lobpher",
+	  "authors": [
+		    "Julien Blanchard"
+	  ],
+	  "description": "Converts lobste.rs newest entries to a gophermap file.",
+	  "copyright": "Copyright © 2018, Julien Blanchard",
+	  "license": "MIT"
+}

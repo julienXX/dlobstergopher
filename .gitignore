@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+lobpher.so
+lobpher.dylib
+lobpher.dll
+lobpher.a
+lobpher.lib
+lobpher-test-*
+*.exe
+*.o
+*.obj
+*.lst
+lobpher
